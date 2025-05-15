@@ -33,3 +33,6 @@ README.md
 ```bash
 git clone https://github.com/yourusername/weather-app.git
 cd weather-app
+
+License
+MIT Licesne - free to use, modify, and distribute.
